@@ -1,4 +1,4 @@
- decrypt = (encryption) => {
+export const decrypt = () => {
     const decipher = crypto.createDecipheriv(
         "aes-256-ctr",
         Buffer.from(secret),
