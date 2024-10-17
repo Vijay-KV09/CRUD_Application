@@ -38,5 +38,4 @@ This is a full-stack Employee Management System application built using the **ME
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/employee-management.git
-   cd employee-management
+   git clone https://github.com/Vijay-KV09/CRUD_Application/.git
